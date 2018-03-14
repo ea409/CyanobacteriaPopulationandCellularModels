@@ -3,7 +3,11 @@
 ## Equations governing growth of the filamentous cyanobacteria:
 
 for any cell:
+
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{dsN_i}{dt}&space;=&space;\alpha_1&space;\frac{fN_i&space;-&space;sN_i}{L_i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{dsN_i}{dt}&space;=&space;\alpha_1&space;\frac{fN_i&space;-&space;sN_i}{L_i}" title="\frac{dsN_i}{dt} = \alpha_1 \frac{fN_i - sN_i}{L_i}" /></a>
+
+
 
 $$ \frac{dsN_i}{dt} = \alpha_1 \frac{fN_i - sN_i}{L_i} $$
 
