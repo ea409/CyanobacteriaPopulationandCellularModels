@@ -25,12 +25,12 @@ Gif extractor loads the .RDS files and saves .png files representing the model. 
 ### Final Locations
 Using the MakingLessFineMap.R gives the final location statistics on which populations are in which grids, for example: 
 
-![](ExampleOutputs/ExamplePlot2.pdf)
+![](ExampleOutputs/ExamplePlot2.jpeg)
 
 ### Net Migration 
 Using the FigureForDIfs.R produces three plots representing net migration between time steps. An example output: 
 
-![](ExampleOutputs/ExamplePlot1.pdf)
+![](ExampleOutputs/ExamplePlot1.jpeg)
 
 
 
